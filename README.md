@@ -1,5 +1,5 @@
 # Idle Breakout Save Hack
-This hack is extremely basic python script.
+This hack is an extremely basic python script.
 
 # How to Run:
 
