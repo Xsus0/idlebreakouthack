@@ -2,8 +2,6 @@ import base64
 
 print("Idle Breakout Save Hack by Xsus")
 
-# TODO prestige modification
-
 print("What level do you want to be on?")
 level = input()
 
