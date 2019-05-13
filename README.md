@@ -16,5 +16,5 @@ Steps to run in browser: Wait for it to load and click run at the top. There wil
 # v1.1
 Fixed prestige bug
 
-# v1.o
+# v1.0
 Initial release
