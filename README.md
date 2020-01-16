@@ -21,3 +21,6 @@ Fixed prestige bug
 
 # v1.0
 Initial release
+
+
+[![HitCount](http://hits.dwyl.io/Xsus0/idlebreakouthack.svg)](http://hits.dwyl.io/Xsus0/idlebreakouthack)
