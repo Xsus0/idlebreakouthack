@@ -11,7 +11,7 @@ OR it can be run in your browser by going to this link: https://idlebreakout.xsu
 
 Steps to run in browser:
 
-Click the link, wait for the console to load, then simply follow the instructions and just copy what is #INSIDE the quotation marks
+Click the link, wait for the console to load, then simply follow the instructions and just copy what is *INSIDE* the quotation marks
 
 # Versions
 
